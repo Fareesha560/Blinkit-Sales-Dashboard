@@ -16,7 +16,7 @@ This project analyzes Blinkit's sales performance using Power BI. The dashboard 
 - Sales trends and customer preferences.
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![POWER BI BLINKIT.pbix](Blinkit_Dashboard.png)
 
 ## Files Included
 - Power BI dashboard (.pbix)
